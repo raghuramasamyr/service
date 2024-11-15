@@ -8,7 +8,7 @@ class ServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assert (1==2);
+		assert (false);
 	}
 
 }
